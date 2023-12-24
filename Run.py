@@ -3,7 +3,7 @@
 # No Drama
 
 import os
-from Menu import menu
+from Face import menu
 
 os.system('git pull')
 menu.Menu_Tools()
