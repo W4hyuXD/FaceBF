@@ -1,6 +1,4 @@
-<b></> Tools To Hack Facebook Accounts Using Brute Force Method</b>    
-   
-_<b>Version 1.4</b>_   
+<b></> Tools To Hack Facebook Accounts Using Brute Force Method</b>
    
 <b></b>
 <b>Command : </b>
@@ -15,5 +13,7 @@ $ pip install rich
 $ ls (L kecil)
 $ python3 Run.py
 ```
+_<b> Version 1.4</b>_    
+<img href='/img/FaceBF.png'></img>
 ```python
 print('Happy Surfing')
