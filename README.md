@@ -1,19 +1,83 @@
-<b></> Tools To Hack Facebook Accounts Using Brute Force Method</b>
+<h1 align="center">FaceBF</h1>
+<p> This tool is useful for hacking Facebook accounts Using the Brute Force Method </p>
+<h1 align="center">🐍</h1>
+  
+<details open>
+  <summary><strong>Update Repository & Upgrade Package</strong></summary>
+
+```bash
+pkg update && pkg upgrade
+```
+
+  </details>
+  
+<details open>
+  <summary><strong>Module</strong></summary>
+  
+  ```bash
+  pkg i -y git python python3
+  pip install requests
+  pip install bs4
+  pip install mechanize
+  pip install rich
+  pip install stdiomask
+  ```
+</details>
+
+## Installation FaceBF
+
+  <details open>
+  <summary><strong>Clone or Download This Repository</strong></summary>
+
+```bash
+git clone --depth=1 https://github.com/WahyuuXD/FaceBF.git
+```
+
+  </details>
+
+  <details>
+  <summary><strong>Run Script</strong></summary>
+
+- Move to Folder
+
+```bash
+cd FaceBF
+```
+- Enter the Tools Menu
+```bash
+python3 Run.py
+```
+
+  </details>
+  
+  <details opem>
+  <summary><strong>:camera_flash: Screenshots</strong></summary>
+  _<b>Version 1.4</>_   
+     
+   # Menu Login
+   - Login Dengan Cookie Facebook
+   - Login Dengan Email & Password 
+   # Cek Result Crack
+   - Cek Hasil Crack Live
+   - Cek Hasil Crack Checkpoint
+   - Kembali Ke Menu Login
+   <img src="/img/login.png">
    
-<b></b>
-<b>Command : </b>
-```
-$ pkg update -y && pkg upgrade -y
-$ pkg i -y git python python3
-$ git clone --depth=1 https://github.com/WahyuuXD/FaceBF
-$ cd FaceBF
-$ pip install requests
-$ pip install bs4
-$ pip install rich
-$ ls (L kecil)
-$ python3 Run.py
-```
-_<b> Version 1.4</b>_    
-<img href='/img/FaceBF.png'></img>
+   # Menu Tools
+   - Crack Dengan ID Publik
+   - Crack Dengan Email `Cloning`
+   - Cek Hasil Crack `OK/CP`
+   - Report Bug
+   - Hapus Cookie & Token / Keluar Tanpa Menghapus Keduanya
+   <img src="/img/menu.png">
+   # Result
+   - Live
+   <img src="/img/live.png">
+   - Checkpoint
+   <img src="/img/cp.png">
+
+   </details>
+   
 ```python
-print('Happy Surfing')
+print("Happy Surfing")
+```
