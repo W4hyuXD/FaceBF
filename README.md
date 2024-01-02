@@ -1,5 +1,7 @@
-<b></> Tools To Hack Facebook Accounts Using Brute Force Method</b>
-
+<b></> Tools To Hack Facebook Accounts Using Brute Force Method</b>    
+   
+_<b>Version 1.4</b>_   
+   
 <b></b>
 <b>Command : </b>
 ```
