@@ -1,4 +1,4 @@
-<b>[!] Tools To Hack Facebook Accounts Using Brute Force Method</b>
+<b>[</>] Tools To Hack Facebook Accounts Using Brute Force Method</b>
 
 <b></b>
 <b>Command : </b>
