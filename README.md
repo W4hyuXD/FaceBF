@@ -1,5 +1,5 @@
 <h1 align="center">FaceBF</h1>
-<p> This tool is useful for hacking Facebook accounts Using the Brute Force Method </p>
+<p align="center"> This tool is useful for hacking Facebook accounts Using the Brute Force Method </p>
 <h1 align="center">🐍</h1>
   
 <details open>
