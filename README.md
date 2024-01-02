@@ -73,7 +73,7 @@ python3 Run.py
      # List Methode
      - Async     `m.facebook.com`
      - Validate  `mbasic.facebook.com`
-     - MobileApp `www.instagram.com`
+       RegulerApp `www.instagram.com`
    <img src="/img/menu.png">
    # Result
    - Live
