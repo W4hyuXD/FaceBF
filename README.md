@@ -56,20 +56,20 @@ python3 Run.py
   _<b>Version 1.4</b>_   
      
    # Menu Login
-    - Login Dengan Cookie Facebook
-    - Login Dengan Email & Password 
-   # Cek Result Crack
-    - Cek Hasil Crack Live
-    - Cek Hasil Crack Checkpoint
-    - Kembali Ke Menu Login
+   - Login Dengan Cookie Facebook
+   - Login Dengan Email & Password 
+     # Cek Result Crack
+     - Cek Hasil Crack Live
+     - Cek Hasil Crack Checkpoint
+     - Kembali Ke Menu Login
    <img src="/img/login.png">
    
    # Menu Tools
-    - Crack Dengan ID Publik
-    - Crack Dengan Email `Cloning`
-    - Cek Hasil Crack `OK/CP`
-    - Report Bug
-    - Hapus Cookie & Token / Keluar Tanpa Menghapus Keduanya
+   - Crack Dengan ID Publik
+   - Crack Dengan Email `Cloning`
+   - Cek Hasil Crack `OK/CP`
+   - Report Bug
+   - Hapus Cookie & Token / Keluar Tanpa Menghapus Keduanya
      # List Methode
      - Async     `m.facebook.com`
      - Validate  `mbasic.facebook.com`
