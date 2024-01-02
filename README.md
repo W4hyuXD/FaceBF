@@ -70,6 +70,10 @@ python3 Run.py
    - Cek Hasil Crack `OK/CP`
    - Report Bug
    - Hapus Cookie & Token / Keluar Tanpa Menghapus Keduanya
+     # List Methode
+     - Async     `m.facebook.com`
+     - Validate  `mbasic.facebook.com`
+     - MobileApp `www.instagram.com`
    <img src="/img/menu.png">
    # Result
    - Live
