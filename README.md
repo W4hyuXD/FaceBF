@@ -1,4 +1,4 @@
-<h1 align="center">FaceBF</h1>
+di<h1 align="center">FaceBF</h1>
 <p> This tool is useful for hacking Facebook accounts Using the Brute Force Method </p>
 <h1 align="center">🐍</h1>
   
@@ -52,6 +52,7 @@ python3 Run.py
   
   <details opem>
   <summary><strong>:camera_flash: Screenshots</strong></summary>
+      
   _<b>Version 1.4</>_   
      
    # Menu Login
