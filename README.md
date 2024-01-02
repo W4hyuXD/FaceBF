@@ -74,11 +74,11 @@ python3 Run.py
      - Async     `m.facebook.com`
      - Validate  `mbasic.facebook.com`
      - RegulerApp `www.instagram.com`
-   <img src="/img/menu.png">
+   <img src="/img/menu.png"></img>
    # Result
-   - Live
+   `Live`
    <img src="/img/live.png">
-   - Checkpoint
+   `Checkpoint`
    <img src="/img/cp.png">
 
    </details>
