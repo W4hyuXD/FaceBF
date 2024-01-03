@@ -78,6 +78,7 @@ python3 Run.py
      - Async     `m.facebook.com`
      - Validate  `mbasic.facebook.com`
      - RegulerApp `www.instagram.com`
+       
    <img src="/img/menu.png"></img>
    # Result
    `Live`
