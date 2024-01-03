@@ -47,7 +47,7 @@ cd FaceBF
 ```bash
 git pull
 ```
-- Enter the Tools Menu
+- Input the Tools Menu
 ```bash
 python3 Run.py
 ```
