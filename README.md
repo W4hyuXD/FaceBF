@@ -44,9 +44,9 @@ git clone --depth=1 https://github.com/WahyuuXD/FaceBF.git
 cd FaceBF
 ```
 - Update Repo
-  ```bash
-  git pull
-  ```
+```bash
+git pull
+```
 - Enter the Tools Menu
 ```bash
 python3 Run.py
