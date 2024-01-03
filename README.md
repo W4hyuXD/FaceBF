@@ -43,6 +43,10 @@ git clone --depth=1 https://github.com/WahyuuXD/FaceBF.git
 ```bash
 cd FaceBF
 ```
+- Update Repo
+  ```bash
+  git pull
+  ```
 - Enter the Tools Menu
 ```bash
 python3 Run.py
@@ -56,20 +60,20 @@ python3 Run.py
   _<b>Version 1.4</b>_   
      
    # Menu Login
-   - Login Dengan Cookie Facebook
-   - Login Dengan Email & Password 
-     # Cek Result Crack
-     - Cek Hasil Crack Live
-     - Cek Hasil Crack Checkpoint
-     - Kembali Ke Menu Login
+   - Login With Cookie Facebook
+   - Login With Email & Password 
+     # Check Result Crack
+     - Check Result Crack Live
+     - Check Result Crack Checkpoint
+     - Back To Login Menu
    <img src="/img/login.png">
    
    # Menu Tools
-   - Crack Dengan ID Publik
-   - Crack Dengan Email `Cloning`
-   - Cek Hasil Crack `OK/CP`
+   - Crack With Publik ID
+   - Crack With Email `Cloning`
+   - Check Result Crack `OK/CP`
    - Report Bug
-   - Hapus Cookie & Token / Keluar Tanpa Menghapus Keduanya
+   - Delete Cookie & Token / Keluar Tanpa Menghapus Keduanya
      # List Methode
      - Async     `m.facebook.com`
      - Validate  `mbasic.facebook.com`
