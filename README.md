@@ -16,6 +16,7 @@ pkg update && pkg upgrade
   
   ```bash
   pkg i -y git python python3
+  pkg i -y play-audio
   pip install requests
   pip install bs4
   pip install mechanize
