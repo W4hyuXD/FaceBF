@@ -31,7 +31,7 @@ pkg update && pkg upgrade
   <summary><strong>Clone or Download This Repository</strong></summary>
 
 ```bash
-git clone --depth=1 https://github.com/WahyuuXD/FaceBF.git
+git clone --depth=1 https://github.com/W4hyuXD/FaceBF.git
 ```
 
   </details>
