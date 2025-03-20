@@ -6,7 +6,7 @@ _<h1 align="center">FaceBF</h1>_
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/wahyuww567)
 
-  <img src="img/Mbf.png"></img>
+  ![Image](https://github.com/user-attachments/assets/b3a3edf3-a7d9-4f62-8cf5-0f5d93c42f77)
 <details open>
   <summary><strong>Update Repository & Upgrade Package</strong></summary>
 
